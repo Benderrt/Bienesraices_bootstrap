@@ -1,0 +1,42 @@
+
+a{
+    text-decoration: none;
+    color: #566573 ;
+}
+.imagen {
+    width: 100%;
+}
+.lista {
+    list-style: none;
+}
+.casa{
+    background-color:#e4e1e1;
+    margin: 0 auto;
+    width: 480px;
+}
+@media (min-width: 1600px) {
+    .casa{
+        width: 550px;
+    }
+    
+}
+.contacto {
+    background-image: url(../img/encuentra.jpg);
+    height: 300px;
+}
+.imagen-blog{
+    width: 450px;
+  
+}
+.sps--abv{
+    background-color: transparent;
+    color:#000
+}
+.sps--blw{
+    background-color: #000;
+}
+h1{
+    position: relative;
+    bottom: 25rem;
+    color: white;
+}
